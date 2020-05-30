@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 276481c2128f6e441a2c2283fa261911
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Glitchy_cute_Sprites_walking_0
+    21300002: Glitchy_cute_Sprites_walking_1
+    21300004: Glitchy_cute_Sprites_walking_2
+    21300006: Glitchy_cute_Sprites_walking_3
+    21300008: Glitchy_cute_Sprites_walking_4
+    21300010: Glitchy_cute_Sprites_walking_5
+    21300012: Glitchy_cute_Sprites_walking_6
+    21300014: Glitchy_cute_Sprites_walking_7
+    21300016: Glitchy_cute_Sprites_walking_8
+    21300018: Glitchy_cute_Sprites_walking_9
+    21300020: Glitchy_cute_Sprites_walking_10
+    21300022: Glitchy_cute_Sprites_walking_11
+    21300024: Glitchy_cute_Sprites_walking_12
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 163
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd10eb43410b0146812cb5960e8c374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 64
+        width: 180
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b027ded5acd6a74fa0e9f642448fa36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 65
+        width: 205
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff319cd1f1a50ac4caa7b2ebccdc9213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_3
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 59
+        width: 201
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aee95952bd19b4e9afeef53f8dd06d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 61
+        width: 199
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc19587b735d24c914f4273156ea6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 65
+        width: 201
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16802c44954366848a88a7feb34ba8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_6
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 64
+        width: 176
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4878d3167967104a9270e864ebfa579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_7
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 57
+        width: 185
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345d90b5e396b24daa465ef5ec02dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_8
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 58
+        width: 205
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c682df0514b834099c9640f9e9f01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_9
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 64
+        width: 184
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0667d62c238d60d429234eb83e5af3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_10
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 64
+        width: 184
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979d733723936e48a0a8954c4f4ec70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_11
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 60
+        width: 168
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51abe1465a9313b4ab045b9946e9c281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glitchy_cute_Sprites_walking_12
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 56
+        width: 168
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa355450084ac46aa24bfc67a1ea68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1475, y: -108}
+      - {x: -1475, y: 130}
+      - {x: -1299, y: 130}
+      - {x: -1299, y: -108}
+    - - {x: -1278, y: -111}
+      - {x: -1278, y: 134}
+      - {x: -1085, y: 134}
+      - {x: -1085, y: -111}
+    - - {x: -1068, y: -119}
+      - {x: -1068, y: 136}
+      - {x: -850, y: 136}
+      - {x: -850, y: -119}
+    - - {x: -836, y: -120}
+      - {x: -836, y: 134}
+      - {x: -627, y: 134}
+      - {x: -627, y: -120}
+    - - {x: -614, y: -119}
+      - {x: -614, y: 134}
+      - {x: -394, y: 134}
+      - {x: -394, y: -119}
+    - - {x: -380, y: -118}
+      - {x: -380, y: 134}
+      - {x: -157, y: 134}
+      - {x: -157, y: -118}
+    - - {x: -144, y: -121}
+      - {x: -144, y: 135}
+      - {x: 75, y: 135}
+      - {x: 75, y: -121}
+    - - {x: 90, y: -120}
+      - {x: 90, y: 136}
+      - {x: 304, y: 136}
+      - {x: 304, y: -120}
+    - - {x: 316, y: -123}
+      - {x: 316, y: 137}
+      - {x: 543, y: 137}
+      - {x: 543, y: -123}
+    - - {x: 564, y: -127}
+      - {x: 564, y: 139}
+      - {x: 770, y: 139}
+      - {x: 770, y: -127}
+    - - {x: 782, y: -132}
+      - {x: 782, y: 138}
+      - {x: 992, y: 138}
+      - {x: 992, y: -132}
+    - - {x: 1015, y: -130}
+      - {x: 1015, y: 130}
+      - {x: 1220, y: 130}
+      - {x: 1220, y: -130}
+    - - {x: 1238, y: -133}
+      - {x: 1238, y: 131}
+      - {x: 1470, y: 131}
+      - {x: 1470, y: -133}
+    physicsShape: []
+    bones: []
+    spriteID: 02dc9f8352ae7ff45b5ed41491a274e1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
